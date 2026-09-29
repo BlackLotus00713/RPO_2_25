@@ -15,6 +15,9 @@ int main()
 	int arr[row][col];
 	int sumRow = 0, sumCol = 0, totalSum = 0;
 
+	std::cout << "123213123213213213"; 
+
+	
 	for (int i = 0; i < row; i++)
 	{
 		sumRow = 0;
